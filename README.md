@@ -1,1 +1,1 @@
-# G-Minecraft-Bot
+# Minecraft Fishing & Mining Bot
